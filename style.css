@@ -73,7 +73,15 @@ a:hover {
 #jawadhappybirthdaygift{
     height: fit-content;
 }
-
+.appru{
+        padding: 10px;
+}
+.appru h1{
+        font-size: 50px;
+}
+.appru h1, .appru p,.appru a{
+        padding: 10px;
+}
 @media (max-width:812px) {
         article{
                 display: grid;
