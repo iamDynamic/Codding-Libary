@@ -90,3 +90,23 @@ a:hover {
           margin-top: 120px;
         }
 }
+.sp img{
+        padding: 10px;
+}
+.sp h1,.sp p,.sp img{
+        margin-top: 10px;
+}
+.sp{
+        text-align: center;
+}
+footer{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+         border: solid #000;
+          background-color: #0077b7;
+          color: #fff;
+          width: fit-content;
+          padding: 10px;
+          box-shadow: 5px 5px 4px 1px #000;
+}
