@@ -99,14 +99,25 @@ a:hover {
 .sp{
         text-align: center;
 }
-footer{
-        display: flex;
+.appss{
+        display: grid;
         justify-content: center;
         align-items: center;
-         border: solid #000;
-          background-color: #0077b7;
-          color: #fff;
-          width: fit-content;
-          padding: 10px;
-          box-shadow: 5px 5px 4px 1px #000;
+        text-align: center; 
+}
+.appss div{
+        border: solid #000;
+        background-color: #0077b7;
+        color: #fff;
+        width: fit-content;
+        padding: 30px;
+        box-shadow: 5px 5px 4px 1px #000;
+
+}
+.appss div h1 ,.appss div p{
+        margin-top: 10px;
+        text-transform: capitalize;
+}
+.appss div a{
+        padding: 50px;
 }
