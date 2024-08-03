@@ -100,12 +100,14 @@ a:hover {
         text-align: center;
 }
 .appss{
-        display: grid;
+        margin-top: 70px;
+        display: flex;
         justify-content: center;
         align-items: center;
         text-align: center; 
 }
 .appss div{
+        margin-left: 50px;
         border: solid #000;
         background-color: #0077b7;
         color: #fff;
