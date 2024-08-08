@@ -123,3 +123,13 @@ a:hover {
 .appss div a{
         padding: 50px;
 }
+.apps{
+        display: grid;
+        background-color: #0077b7;
+        color: #fff;
+        justify-content: center;
+        align-items:center ;
+        padding: 20px;
+        box-shadow: 5px 5px 4px 1px #000;
+
+}
