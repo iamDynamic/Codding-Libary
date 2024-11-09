@@ -133,3 +133,11 @@ a:hover {
         box-shadow: 5px 5px 4px 1px #000;
 
 }
+#btn{
+        background-color: #0077b7;
+        color: #fff;
+        padding: 10px;
+        font-family: sans-serif;
+        cursor: pointer;
+        text-transform: capitalize;
+}
