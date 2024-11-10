@@ -20,10 +20,11 @@ nav {
           justify-content: space-around;
 }
 
-#AllDevices,
-#Pc,
-#Ipad,
-#laptop {
+.button,
+.button,
+.button,
+.button {
+        text-transform: capitalize;
           box-shadow: 2px 2px 2px 1px #000;
           cursor: pointer;
           border-radius: 20px;
@@ -35,10 +36,10 @@ nav {
           background-color: #0077b7;
 }
 
-#AllDevices:hover,
-#Pc:hover,
-#Ipad:hover,
-#laptop:hover {
+.button:hover,
+.button:hover,
+.button:hover,
+.button:hover {
           background-color: #000;
           color: #fff;
 }
@@ -51,7 +52,8 @@ nav {
           padding: 10px;
           box-shadow: 5px 5px 4px 1px #000;
 }
-.app:hover{
+.app:hover
+,.apps:hover{
           background-color: #000;
 }
 a {
