@@ -58,6 +58,14 @@ if (id === "550e7812-90d1-45d2-a629-9b1511589de3") {
        </div>
     </article>
     <article>
+    <div class="apps">
+            <img src="download.webp" alt=""><br>
+            <h1>naruto characters</h1>
+            <br>
+            <p>api</p>
+            <br>
+            <a href="https://github.com/iamDynamic/naruto-character-info">visit</a>
+         </div>
        <div class="apps">
          <img src="download (2).jpeg" alt="">
          <h1>todo list</h1>
@@ -82,7 +90,15 @@ if (id === "550e7812-90d1-45d2-a629-9b1511589de3") {
       <p>python</p>
       <a href=""https://github.com/iamDynamic/Yalla_Shout_Api>visit</a>
      </div>
+      <div class="apps">
+         <img width="200px" src="https://roppongi.fr/wp-content/uploads/Naruto-de-Masashi-Kishimoto.jpg" alt="">
+         <h1>naruto api</h1>
+         <br>
+         <p>the api made by me</p>
+         <br><a href="https://naruto-api-five.vercel.app/">visit</a>
+      </div>
     </article>
+ 
     `;
 }
 if(id === "289322ac-b636-4147-a094-701bdd8ddbf2"){
